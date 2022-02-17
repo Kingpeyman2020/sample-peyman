@@ -7,3 +7,7 @@ for(let i = 0 ; i < 100 ; i++){
 };
 
 console.log(arr);
+
+
+var chan = "This is Change";
+chan = "Hello Change";
