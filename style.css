@@ -1,0 +1,13 @@
+h1{
+     color: red;
+}
+
+*{
+     font-family: sans-serif;
+}
+
+li{
+     font-size: larger;
+     margin-top: 10px;
+     /* list-style: none; */
+}
